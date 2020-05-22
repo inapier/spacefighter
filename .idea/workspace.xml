@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b82daa4-6c9a-44fd-9fc9-bc199954f6ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bCC2PTUqxyyT62xhPr2eWr8e3D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.SpaceFighter">
+    <configuration name="ProjectIntro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceFighter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProjectIntro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpaceFighter (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceFighter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpaceFighter (2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpaceFighter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceFighter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpaceFighter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SpaceFighter" />
+        <item itemvalue="Python.SpaceFighter (2)" />
+        <item itemvalue="Python.ProjectIntro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b82daa4-6c9a-44fd-9fc9-bc199954f6ac" name="Default Changelist" comment="" />
+      <created>1588126480914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588126480914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="270" key="GridCell.Tab.0.bottom" timestamp="1589754887061">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="270" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1589754887061" />
+    <state width="2524" height="387" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589051692606" />
+    <state width="1899" height="268" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.999@3840.0.1920.999" timestamp="1589603522790" />
+    <state width="1876" height="270" key="GridCell.Tab.0.center" timestamp="1589754887061">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="270" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1589754887061" />
+    <state width="2524" height="387" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589051692605" />
+    <state width="1899" height="268" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.999@3840.0.1920.999" timestamp="1589603522790" />
+    <state width="1876" height="270" key="GridCell.Tab.0.left" timestamp="1589754887060">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="270" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1589754887060" />
+    <state width="2524" height="387" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589051692605" />
+    <state width="1899" height="268" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.999@3840.0.1920.999" timestamp="1589603522790" />
+    <state width="1876" height="270" key="GridCell.Tab.0.right" timestamp="1589754887061">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="270" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1589754887061" />
+    <state width="2524" height="387" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589051692605" />
+    <state width="1899" height="268" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.999@3840.0.1920.999" timestamp="1589603522790" />
+    <state x="3949" y="231" key="SettingsEditor" timestamp="1589601502186">
+      <screen x="3840" y="0" width="1920" height="999" />
+    </state>
+    <state x="603" y="374" key="SettingsEditor/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589411876990" />
+    <state x="3949" y="231" key="SettingsEditor/0.0.2560.1400/3840.0.1920.999@3840.0.1920.999" timestamp="1589601502186" />
+    <state x="4578" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1589835466589">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4578" y="382" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1589835466589" />
+    <state x="984" y="515" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589411868031" />
+    <state x="4578" y="367" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/3840.0.1920.999@3840.0.1920.999" timestamp="1589601492927" />
+    <state x="1003" y="601" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589050583701">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1003" y="601" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.1400/3840.0.1920.999@0.0.2560.1400" timestamp="1589050583701" />
+  </component>
+</project>
